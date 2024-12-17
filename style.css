@@ -1,0 +1,111 @@
+.header{
+	background-color: #BCBCBC;
+	height: 90px
+}
+a{
+	font-family: Arial black;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: center;
+	color: black;
+    margin-left: 30px;
+    text-decoration: none;
+
+}
+.das{
+	height: 30px;
+	width: 30px;
+}
+.mg{
+	margin-left: 570px;
+}
+.arizona{
+	height: 90px;
+	width:  90px;
+}
+.down{
+	margin-top: 40px;
+
+}
+
+
+.dp{
+	display: flex;
+}
+.menu{
+    background:none ;
+    height: 45px;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+
+.bd{
+	background: none;
+	height: 70px;
+	width: 250px;
+	margin-left: 600px;
+	padding-top: 30px;
+}
+.as{
+	margin-left: 30px;
+}
+.gh{
+	background: none;
+	height: 10px;
+
+}
+.polar{
+	height: 800px;
+	width: 1900px;
+}
+.wint{
+	font-size: 30px;
+	font-family: arial black;
+	padding-left: 200px;
+}
+.the{
+	font-size: 20px;
+	font-family: arial black;
+	padding-left: 100px;
+}
+.view{	
+	height: 40px;
+	width: 230px;
+	background: black;
+	margin-left: 250px;
+}
+.aw{
+	color: white;
+	font-family: arial black;
+	text-align: center;
+	margin: auto;
+	text-align: center;font-size: 15px;
+}
+.box-1{
+	background: none;
+	height: 800px;
+	width: 850px;
+}
+
+.box-2{
+	height: 700px;
+	width: 650px;
+	background: blue;
+	margin-left: 330px;
+}
+.mgr{
+	margin-top: 300px;
+}
+.sd{
+ 	width: 100%;
+}
+.gj{
+	height: 700px;
+	background: #4d1f6e;
+	margin: auto;
+}
+.png{
+	width: 600px;
+	height: 600px;
+	margin: auto;
+}
